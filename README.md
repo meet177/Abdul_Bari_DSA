@@ -1,2 +1,2 @@
 # Abdul_Bari_DSA
-This repo consists of stuff learned from abdul bari for DSA
+This is a repo containing all the things related to DSA and CP I have learnt from Abdul Bari.
